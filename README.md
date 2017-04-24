@@ -1,4 +1,4 @@
 # hello-world
 hockey
 
-soy de argentina megusta el deporte
+soy de argentina me gusta el deporte
